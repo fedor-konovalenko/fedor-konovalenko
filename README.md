@@ -6,7 +6,7 @@ _______
 - Yandex Practicum Data Science Course - 2022 - 2023
 _______
 ### Previous Experience
-- Technician Design Engineer Senior Design Engineer Team Lead in electrotechnical area (you can see more at my [linkedin](https://www.linkedin.com/in/fedor-konovalenko/))
+- Technician → Design Engineer → Senior Design Engineer → Team Lead in electrotechnical area (you can see more at my [linkedin](https://www.linkedin.com/in/fedor-konovalenko/))
 - Senior Engineer of Bioanalytical Department in [TRDC](https://en.trdc.com/)
 
 ________
