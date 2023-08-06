@@ -1,8 +1,8 @@
 ### Hi there!
 _______
 ### Education
-- Bauman Moscow State Univercity (Power Engineereng Department) - 2008...2014 (physics engineer)
-- Bauman Moscow State Univercity (Power Engineereng Department) - 2014...2018 (postgraduate)
+- Bauman Moscow State Technical University (Power Engineereng Department) - 2008...2014 (physics engineer)
+- Bauman Moscow State Technical University (Power Engineereng Department) - 2014...2018 (postgraduate)
 - Yandex Practicum Data Science Course - 2022...2023
 _______
 ### Previous Experience
