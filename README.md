@@ -14,7 +14,8 @@ _______
 
 
 ________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&layout=compact)](https://github.com/fedor-konovalenko/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&layout=compact)
 
 
 ### Tools
