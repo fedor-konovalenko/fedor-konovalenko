@@ -5,9 +5,13 @@ _______
 - Bauman Moscow State Technical University (Power Engineereng Department) - 2014...2018 (postgraduate)
 - Yandex Practicum Data Science Course - 2022...2023
 _______
+### Activity
+- Reviewer in Yandex Liceum (Data Analysis)
+_______
 ### Previous Experience
 - Technician → Design Engineer → Senior Design Engineer → Team Lead in electrotechnical area (you can see more at my [linkedin](https://www.linkedin.com/in/fedor-konovalenko/))
 - Senior Engineer of Bioanalytical Department in [TRDC](https://en.trdc.com/)
+
 
 ________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&layout=compact)](https://github.com/fedor-konovalenko/github-readme-stats)
