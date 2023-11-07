@@ -6,6 +6,7 @@ _______
 - Yandex Practicum Data Science Course - 2022...2023
 _______
 ### Activity
+- Data Science Intern in Alfa Ecosystem (Diagnostics)
 - Reviewer in Yandex Liceum (Data Analysis)
 _______
 ### Previous Experience
