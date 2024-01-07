@@ -23,10 +23,8 @@ _____
 ![PyCharm](https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=black)
 
 _______
