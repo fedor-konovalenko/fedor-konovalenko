@@ -16,7 +16,8 @@ _______
 
 ________
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fedor-konovalenko)](https://github.com/fedor-konovalenko/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&hide_progress=true&layout=compact&theme=swift&hide=Jupyter%20Notebook, html)
+
 
 _____
 ### Tools
