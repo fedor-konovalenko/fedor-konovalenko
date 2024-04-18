@@ -16,7 +16,7 @@ _______
 
 ________
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&hide_progress=true&layout=compact&theme=swift&hide=Jupyter%20Notebook, html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&hide_progress=true&layout=compact&theme=swift&hide=html)
 
 
 _____
