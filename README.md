@@ -16,7 +16,7 @@ _______
 
 ________
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&hide_progress=true&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-konovalenko&hide_progress=true&layout=compact&theme=swift&hide=jupyter)
 _____
 ### Tools
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black)
