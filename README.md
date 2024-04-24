@@ -3,7 +3,7 @@ _______
 ### Education
 - Bauman Moscow State Technical University (Power Engineereng Department) - 2008...2014 (physics engineer)
 - Bauman Moscow State Technical University (Power Engineereng Department) - 2014...2018 (postgraduate)
-- Yandex Practicum Data Science Course - 2022...2023
+- [Deep Learning School (MIPT)](https://dls.samcs.ru/) and Yandex Practicum Data Science Course - 2022...2023
 _______
 ### Activity
 - Data Scientist in Alfa Ecosystem (Diagnostics)
