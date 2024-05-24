@@ -6,8 +6,9 @@ _______
 - [Deep Learning School (MIPT)](https://dls.samcs.ru/) and Yandex Practicum Data Science Course - 2022...2023
 _______
 ### Activity
-- Data Scientist in Alfa Ecosystem (Diagnostics)
+- Computer Vision Researcher in [Filtsy](https://filtsy.com/)
 - Reviewer in Yandex Liceum (Data Analysis)
+- External Expert in Data Workshop of Yandex Practicum
 _______
 ### Previous Experience
 - Technician → Design Engineer → Senior Design Engineer → Team Lead in electrotechnical area (you can see more at my [linkedin](https://www.linkedin.com/in/fedor-konovalenko/))
