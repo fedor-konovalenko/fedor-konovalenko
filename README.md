@@ -6,6 +6,7 @@ _______
 - [Deep Learning School (MIPT)](https://dls.samcs.ru/) and Yandex Practicum Data Science Course - 2022...2023
 _______
 ### Activity
+- Middle DS (CV, NLP) at [Machine Intelligence Laboratory](http://mil-team.com/) of MIPT
 - Computer Vision Researcher in [Filtsy](https://filtsy.com/)
 - Reviewer in Yandex Liceum (Data Analysis)
 - External Expert in Data Workshop of Yandex Practicum
