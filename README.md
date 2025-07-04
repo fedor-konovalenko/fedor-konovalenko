@@ -3,7 +3,7 @@ _______
 ### Education
 - Bauman Moscow State Technical University (Power Engineereng Department) - 2008...2014 (physics engineer)
 - Bauman Moscow State Technical University (Power Engineereng Department) - 2014...2018 (postgraduate)
-- [Deep Learning School (MIPT)](https://dls.samcs.ru/) and Yandex Practicum Data Science Course - 2022...2023
+- [Deep Learning School (MIPT)](https://dls.samcs.ru/) and Data Science Courses - 2022...2023
 _______
 ### Activity
 - Middle DS (CV, NLP) at [Machine Intelligence Laboratory](http://mil-team.com/) of MIPT
